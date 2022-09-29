@@ -1,4 +1,4 @@
-#Curso Fundamentos de la programación de OpenBootcamp
+# Curso Fundamentos de la programación de OpenBootcamp
 
 ### Introducción a la programación
 
